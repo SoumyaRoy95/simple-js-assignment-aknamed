@@ -1,0 +1,1 @@
+run the command 'npm test' to run all the test cases
